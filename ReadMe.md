@@ -28,6 +28,6 @@ link - https://colab.research.google.com/drive/1Nh5bGPppucvwcMWtesP9I1uYSMPO5rZi
 Video used for testing - Final Test Video/pizza test.mp4
 (a minute of pizza footage extracted from ["Frozen Pizza MEGA FACTORY: How Automation Produces TONS of Pizzas Daily"](https://www.youtube.com/watch?v=5lKsyMu6pAk&ab_channel=TheSmartFarm)) Time - 8:00 - 9:00
 
-Problems Faced - due to some unknown issue with my nvidea drivers, Tensor isnt able to utilize GPU hence really slow frame times (700-800ms per frame)
+Problems Faced - due to some unknown issue with my nvidea drivers, Torch isnt able to utilize GPU hence really slow frame times (700-800ms per frame)
 
 **END OF FILE**
